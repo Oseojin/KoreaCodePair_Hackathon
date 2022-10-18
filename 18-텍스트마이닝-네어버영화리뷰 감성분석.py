@@ -21,6 +21,7 @@ selected_movie = title[menu-1]
 movie_code = selected_movie.attrs["href"].replace("/movie/bi/mi/basic.naver?code=", "")
 
 page_num = 1
+sentiment_result = {"매우긍정" : 0, "긍정" : 0, "중립" : 0, "부정" : 0, "매우부정" : 0}
 while True:
     url = f"https://movie.naver.com/movie/bi/mi/pointWriteFormList.naver?code={movie_code}&type=after&isActualPointWriteExecute=false&isMileageSubscriptionAlready=false&isMileageSubscriptionReject=false&page={page_num}"
     code = req.urlopen(url)
@@ -36,5 +37,40 @@ while True:
             print(f"{score * 100: .2f}% 확률로 긍정입니다.")
         else:
             print(f"{100 - score * 100: .2f}% 확률로 부정입니다.")
+
+        if 0.8 <= score <= 1:
+            sentiment_result["매우긍정"] += 1
+        elif 0.6 <= score < 0.8:
+            sentiment_result["긍정"] += 1
+        elif 0.4 <= score < 0.6:
+            sentiment_result["중립"] += 1
+        elif 0.2 <= score < 0.4:
+            sentiment_result["부정"] += 1
+        elif 0 <= score < 0.2:
+            sentiment_result["매우부정"] += 1
         print("----------------------")
+    if page_num == 10:
+        break
     page_num += 1
+
+from pyecharts import Bar3D
+import webbrowser
+import os
+
+bar3d = Bar3D("감성분석 결과", width=1200, height=600)
+x_axis = ["매우긍정", "긍정", "중립", "부정", "매우부정"]
+y_axis = []
+data = [[0, 0, sentiment_result["매우긍정"]], 
+        [0, 1, sentiment_result["긍정"]], 
+        [0, 2, sentiment_result["중립"]], 
+        [0, 3, sentiment_result["부정"]], 
+        [0, 4, sentiment_result["매우부정"]]]
+range_color = ['#313695', '#4575b4', '#74add1', '#abd9e9', '#e0f3f8', '#ffffbf',
+               '#fee090', '#fdae61', '#f46d43', '#d73027', '#a50026']
+bar3d.add("", x_axis, y_axis, [[d[1], d[0], d[2]] for d in data],
+    is_visualmap=True, visual_range=[0, max(sentiment_result.values())], visual_range_color=range_color,
+    grid3d_width=200, grid3d_depth=40, grid3d_shading="lambert")
+bar3d.render("./bar.html")
+
+ap = os.path.abspath("./bar.html")
+webbrowser.open(ap)
