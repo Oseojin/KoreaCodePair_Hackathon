@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'NanumMyeongjo';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(138,156)" font-size="92" style="fill:rgb(165, 219, 54)">교육</text>
+<text transform="translate(83,177) rotate(-90)" font-size="86" style="fill:rgb(47, 108, 142)">코딩</text>
+<text transform="translate(93,72)" font-size="76" style="fill:rgb(62, 73, 137)">수업</text>
+<text transform="translate(381,143) rotate(-90)" font-size="75" style="fill:rgb(129, 211, 77)">아이</text>
+<text transform="translate(296,186)" font-size="54" style="fill:rgb(127, 211, 78)">학습</text>
+<text transform="translate(127,193) rotate(-90)" font-size="49" style="fill:rgb(112, 207, 87)">취업</text>
+<text transform="translate(235,68)" font-size="46" style="fill:rgb(31, 152, 139)">문제</text>
+<text transform="translate(205,188)" font-size="42" style="fill:rgb(56, 185, 119)">언어</text>
+<text transform="translate(228,20)" font-size="23" style="fill:rgb(236, 229, 27)">프로그램</text>
+<text transform="translate(140,76)" font-size="23" style="fill:rgb(70, 7, 90)">청년</text>
+<text transform="translate(16,186)" font-size="22" style="fill:rgb(251, 231, 35)">과정</text>
+<text transform="translate(134,174)" font-size="22" style="fill:rgb(124, 210, 80)">서비스</text>
+<text transform="translate(45,20)" font-size="22" style="fill:rgb(71, 47, 125)">실습</text>
+<text transform="translate(390,136) rotate(-90)" font-size="22" style="fill:rgb(216, 226, 25)">기업</text>
+<text transform="translate(83,84)" font-size="22" style="fill:rgb(59, 82, 139)">인공</text>
+<text transform="translate(393,77) rotate(-90)" font-size="22" style="fill:rgb(42, 176, 127)">활용</text>
+<text transform="translate(309,116) rotate(-90)" font-size="22" style="fill:rgb(53, 183, 121)">지능</text>
+<text transform="translate(4,19)" font-size="21" style="fill:rgb(41, 123, 142)">통해</text>
+<text transform="translate(173,193)" font-size="21" style="fill:rgb(62, 73, 137)">지역</text>
+<text transform="translate(29,101)" font-size="21" style="fill:rgb(58, 83, 139)">운영</text>
+<text transform="translate(151,137) rotate(-90)" font-size="21" style="fill:rgb(129, 211, 77)">인재</text>
+<text transform="translate(136,193)" font-size="19" style="fill:rgb(68, 59, 132)">센터</text>
+<text transform="translate(137,18)" font-size="19" style="fill:rgb(70, 50, 126)">생각</text>
+<text transform="translate(212,111)" font-size="18" style="fill:rgb(46, 111, 142)">지원</text>
+<text transform="translate(16,167) rotate(-90)" font-size="18" style="fill:rgb(108, 205, 90)">창업</text>
+<text transform="translate(16,100) rotate(-90)" font-size="18" style="fill:rgb(144, 215, 67)">대학</text>
+<text transform="translate(279,194)" font-size="16" style="fill:rgb(31, 159, 136)">파이썬</text>
+<text transform="translate(69,194) rotate(-90)" font-size="16" style="fill:rgb(61, 77, 138)">컴퓨터</text>
+<text transform="translate(89,16)" font-size="16" style="fill:rgb(71, 45, 123)">전공</text>
+<text transform="translate(87,100)" font-size="15" style="fill:rgb(67, 61, 132)">명령어</text>
+<text transform="translate(243,191)" font-size="15" style="fill:rgb(38, 173, 129)">시작</text>
+<text transform="translate(240,92) rotate(-90)" font-size="15" style="fill:rgb(45, 178, 125)">개발</text>
+<text transform="translate(360,30)" font-size="14" style="fill:rgb(112, 207, 87)">융합</text>
+<text transform="translate(155,105)" font-size="9" style="fill:rgb(61, 77, 138)">소프트웨어</text>
+<text transform="translate(37,69) rotate(-90)" font-size="9" style="fill:rgb(31, 153, 138)">성교육</text>
+<text transform="translate(77,90) rotate(-90)" font-size="9" style="fill:rgb(72, 31, 112)">때문</text>
+<text transform="translate(116,193)" font-size="9" style="fill:rgb(236, 229, 27)">양육</text>
+<text transform="translate(380,147)" font-size="9" style="fill:rgb(82, 197, 105)">양성</text>
+<text transform="translate(345,147)" font-size="9" style="fill:rgb(68, 58, 131)">위해</text>
+<text transform="translate(37,165) rotate(-90)" font-size="9" style="fill:rgb(74, 193, 109)">프로그래밍</text>
+<text transform="translate(90,27)" font-size="9" style="fill:rgb(68, 1, 84)">기자</text>
+<text transform="translate(80,194)" font-size="9" style="fill:rgb(101, 203, 94)">이해</text>
+<text transform="translate(1,111)" font-size="9" style="fill:rgb(44, 113, 142)">대한</text>
+<text transform="translate(309,111)" font-size="9" style="fill:rgb(70, 192, 111)">참여</text>
+<text transform="translate(183,9)" font-size="9" style="fill:rgb(68, 57, 131)">스마트</text>
+<text transform="translate(115,142)" font-size="9" style="fill:rgb(50, 100, 142)">활동</text>
+<text transform="translate(218,143) rotate(-90)" font-size="9" style="fill:rgb(37, 133, 142)">진행</text>
+<text transform="translate(297,138)" font-size="9" style="fill:rgb(36, 170, 131)">관련</text>
+<text transform="translate(323,79)" font-size="9" style="fill:rgb(34, 140, 141)">사회</text>
+<text transform="translate(341,192)" font-size="9" style="fill:rgb(62, 73, 137)">사람</text>
+<text transform="translate(274,75)" font-size="9" style="fill:rgb(71, 47, 125)">사용</text>
+<text transform="translate(355,75)" font-size="9" style="fill:rgb(36, 135, 142)">기술</text>
+<text transform="translate(327,26)" font-size="9" style="fill:rgb(38, 130, 142)">학생</text>
+<text transform="translate(141,92) rotate(-90)" font-size="9" style="fill:rgb(70, 11, 94)">선택</text>
+<text transform="translate(121,40)" font-size="9" style="fill:rgb(56, 88, 140)">역량</text>
+<text transform="translate(221,137)" font-size="9" style="fill:rgb(34, 140, 141)">사업</text>
+<text transform="translate(247,154)" font-size="9" style="fill:rgb(52, 182, 121)">기획</text>
+<text transform="translate(108,62)" font-size="9" style="fill:rgb(40, 124, 142)">실무</text>
+<text transform="translate(259,104)" font-size="9" style="fill:rgb(34, 141, 141)">대상</text>
+<text transform="translate(53,129)" font-size="9" style="fill:rgb(68, 191, 112)">준비</text>
+<text transform="translate(240,27)" font-size="8" style="fill:rgb(71, 47, 125)">프로젝트</text>
+<text transform="translate(272,27)" font-size="8" style="fill:rgb(70, 11, 94)">개발자</text>
+<text transform="translate(116,163)" font-size="8" style="fill:rgb(36, 135, 142)">재단</text>
+<text transform="translate(4,194)" font-size="8" style="fill:rgb(65, 66, 135)">포스코</text>
+<text transform="translate(342,100)" font-size="8" style="fill:rgb(62, 76, 138)">온라인</text>
+<text transform="translate(317,135)" font-size="8" style="fill:rgb(44, 115, 142)">창의</text>
+<text transform="translate(203,85)" font-size="8" style="fill:rgb(122, 209, 81)">이용</text>
+<text transform="translate(4,53)" font-size="8" style="fill:rgb(197, 224, 33)">게임</text>
+<text transform="translate(163,86)" font-size="8" style="fill:rgb(124, 210, 80)">콘텐츠</text>
+<text transform="translate(234,45) rotate(-90)" font-size="8" style="fill:rgb(68, 191, 112)">태블릿</text>
+<text transform="translate(341,49)" font-size="8" style="fill:rgb(72, 29, 111)">사랑</text>
+<text transform="translate(164,52)" font-size="8" style="fill:rgb(69, 55, 129)">집중</text>
+<text transform="translate(145,139)" font-size="8" style="fill:rgb(41, 121, 142)">산업</text>
+<text transform="translate(3,131)" font-size="8" style="fill:rgb(45, 113, 142)">설명</text>
+<text transform="translate(340,122)" font-size="8" style="fill:rgb(33, 142, 141)">내용</text>
+<text transform="translate(191,159)" font-size="8" style="fill:rgb(45, 112, 142)">제공</text>
+<text transform="translate(280,174)" font-size="8" style="fill:rgb(72, 28, 110)">학교</text>
+<text transform="translate(339,179)" font-size="8" style="fill:rgb(48, 106, 142)">정리</text>
+<text transform="translate(243,81)" font-size="8" style="fill:rgb(54, 93, 141)">경계</text>
+<text transform="translate(319,65)" font-size="8" style="fill:rgb(68, 1, 84)">이상</text>
+<text transform="translate(261,64)" font-size="8" style="fill:rgb(61, 188, 116)">공간</text>
+<text transform="translate(143,86)" font-size="8" style="fill:rgb(64, 189, 114)">가장</text>
+<text transform="translate(69,47)" font-size="8" style="fill:rgb(32, 164, 134)">대표</text>
+<text transform="translate(357,7)" font-size="7" style="fill:rgb(71, 13, 96)">빅데이터</text>
+<text transform="translate(156,28)" font-size="7" style="fill:rgb(192, 223, 37)">자신</text>
+<text transform="translate(223,148)" font-size="7" style="fill:rgb(59, 187, 117)">인천</text>
+<text transform="translate(91,61)" font-size="7" style="fill:rgb(124, 210, 80)">초등</text>
+<text transform="translate(194,140)" font-size="7" style="fill:rgb(68, 59, 132)">교수</text>
+<text transform="translate(396,195) rotate(-90)" font-size="7" style="fill:rgb(184, 222, 41)">전문가</text>
+<text transform="translate(86,147)" font-size="7" style="fill:rgb(32, 147, 140)">인하대</text>
+<text transform="translate(334,7)" font-size="7" style="fill:rgb(64, 70, 136)">일자리</text>
+<text transform="translate(118,181)" font-size="7" style="fill:rgb(44, 114, 142)">직접</text>
+<text transform="translate(33,194)" font-size="7" style="fill:rgb(31, 158, 137)">해결</text>
+<text transform="translate(182,33)" font-size="7" style="fill:rgb(67, 62, 133)">효과</text>
+<text transform="translate(181,141) rotate(-90)" font-size="7" style="fill:rgb(36, 134, 142)">선생님</text>
+<text transform="translate(191,196)" font-size="7" style="fill:rgb(155, 217, 60)">위즈</text>
+<text transform="translate(326,56) rotate(-90)" font-size="7" style="fill:rgb(55, 90, 140)">디지털</text>
+<text transform="translate(312,122)" font-size="7" style="fill:rgb(137, 213, 72)">학과</text>
+<text transform="translate(55,109)" font-size="7" style="fill:rgb(71, 45, 123)">진로</text>
+<text transform="translate(262,134)" font-size="7" style="fill:rgb(71, 46, 124)">분석</text>
+<text transform="translate(326,98)" font-size="7" style="fill:rgb(170, 220, 50)">중심</text>
+<text transform="translate(208,122)" font-size="7" style="fill:rgb(30, 157, 137)">전문</text>
+<text transform="translate(4,61)" font-size="7" style="fill:rgb(244, 230, 30)">기능</text>
+<text transform="translate(268,148)" font-size="7" style="fill:rgb(59, 81, 139)">수도</text>
+<text transform="translate(341,155)" font-size="7" style="fill:rgb(72, 41, 121)">지난</text>
+<text transform="translate(381,83)" font-size="7" style="fill:rgb(33, 165, 133)">핵심</text>
+<text transform="translate(396,33) rotate(-90)" font-size="7" style="fill:rgb(70, 7, 90)">알고리즘</text>
+<text transform="translate(344,24)" font-size="7" style="fill:rgb(43, 116, 142)">우리</text>
+<text transform="translate(45,71) rotate(-90)" font-size="7" style="fill:rgb(62, 76, 138)">고용</text>
+<text transform="translate(63,79) rotate(-90)" font-size="7" style="fill:rgb(72, 26, 108)">사이버</text>
+<text transform="translate(205,22)" font-size="7" style="fill:rgb(67, 61, 132)">학년</text>
+<text transform="translate(1,176)" font-size="7" style="fill:rgb(44, 177, 126)">경험</text>
+<text transform="translate(367,196)" font-size="7" style="fill:rgb(62, 74, 137)">삼성</text>
+<text transform="translate(20,22)" font-size="7" style="fill:rgb(72, 29, 111)">개념</text>
+<text transform="translate(370,56) rotate(-90)" font-size="7" style="fill:rgb(49, 103, 142)">라이브</text>
+<text transform="translate(227,118)" font-size="6" style="fill:rgb(147, 215, 65)">교육과정</text>
+<text transform="translate(15,99)" font-size="6" style="fill:rgb(184, 222, 41)">현장</text>
+<text transform="translate(86,136) rotate(-90)" font-size="6" style="fill:rgb(57, 85, 140)">중앙</text>
+<text transform="translate(199,70)" font-size="6" style="fill:rgb(132, 212, 75)">기관</text>
+<text transform="translate(72,179)" font-size="6" style="fill:rgb(50, 182, 122)">구성</text>
+<text transform="translate(278,42) rotate(-90)" font-size="6" style="fill:rgb(231, 228, 25)">보안</text>
+<text transform="translate(199,52)" font-size="6" style="fill:rgb(34, 141, 141)">영어</text>
+<text transform="translate(158,40)" font-size="6" style="fill:rgb(105, 205, 91)">분야</text>
+<text transform="translate(355,82)" font-size="6" style="fill:rgb(70, 10, 93)">아카데미</text>
+<text transform="translate(188,75) rotate(-90)" font-size="6" style="fill:rgb(200, 224, 32)">캠퍼스</text>
+<text transform="translate(291,66)" font-size="6" style="fill:rgb(253, 231, 37)">베터</text>
+<text transform="translate(174,196)" font-size="6" style="fill:rgb(58, 84, 140)">수학</text>
+<text transform="translate(328,195) rotate(-90)" font-size="6" style="fill:rgb(37, 133, 142)">인간</text>
+<text transform="translate(273,47)" font-size="6" style="fill:rgb(53, 94, 141)">국내</text>
+<text transform="translate(50,38)" font-size="6" style="fill:rgb(42, 176, 127)">시대</text>
+<text transform="translate(25,38)" font-size="6" style="fill:rgb(72, 35, 116)">마련</text>
+<text transform="translate(280,34)" font-size="6" style="fill:rgb(194, 223, 35)">시스템</text>
+<text transform="translate(232,196)" font-size="5" style="fill:rgb(119, 209, 83)">클라우드</text>
+<text transform="translate(3,120)" font-size="5" style="fill:rgb(56, 88, 140)">과목</text>
+<text transform="translate(114,149)" font-size="5" style="fill:rgb(69, 53, 129)">자격증</text>
+<text transform="translate(326,104)" font-size="5" style="fill:rgb(72, 26, 108)">계획</text>
+<text transform="translate(218,91)" font-size="5" style="fill:rgb(84, 197, 104)">화면</text>
+<text transform="translate(4,183)" font-size="5" style="fill:rgb(52, 182, 121)">수료</text>
+<text transform="translate(71,197)" font-size="5" style="fill:rgb(72, 35, 116)">연구</text>
+<text transform="translate(98,195)" font-size="5" style="fill:rgb(248, 230, 33)">브랜드</text>
+<text transform="translate(148,111)" font-size="5" style="fill:rgb(71, 13, 96)">아이스크림</text>
+<text transform="translate(138,42)" font-size="5" style="fill:rgb(119, 209, 83)">캐릭터</text>
+<text transform="translate(299,166) rotate(-90)" font-size="5" style="fill:rgb(189, 223, 38)">스쿨</text>
+<text transform="translate(385,127)" font-size="5" style="fill:rgb(105, 205, 91)">이번</text>
+<text transform="translate(207,44)" font-size="5" style="fill:rgb(59, 187, 117)">최초</text>
+<text transform="translate(79,121)" font-size="5" style="fill:rgb(32, 146, 140)">하나</text>
+<text transform="translate(363,128)" font-size="5" style="fill:rgb(223, 227, 24)">일보</text>
+<text transform="translate(272,13)" font-size="5" style="fill:rgb(49, 104, 142)">능력</text>
+<text transform="translate(195,168)" font-size="5" style="fill:rgb(64, 70, 136)">우수</text>
+<text transform="translate(119,6)" font-size="5" style="fill:rgb(152, 216, 62)">산업혁명</text>
+<text transform="translate(58,147)" font-size="5" style="fill:rgb(71, 45, 123)">경복대</text>
+<text transform="translate(189,88)" font-size="5" style="fill:rgb(71, 16, 99)">기반</text>
+<text transform="translate(216,194) rotate(-90)" font-size="5" style="fill:rgb(197, 224, 33)">공부</text>
+<text transform="translate(276,82)" font-size="5" style="fill:rgb(46, 111, 142)">디자인</text>
+<text transform="translate(383,114)" font-size="5" style="fill:rgb(42, 119, 142)">가지</text>
+<text transform="translate(142,55)" font-size="5" style="fill:rgb(42, 119, 142)">방법</text>
+<text transform="translate(109,42)" font-size="5" style="fill:rgb(72, 28, 110)">강의</text>
+<text transform="translate(317,7)" font-size="5" style="fill:rgb(72, 36, 117)">이민정</text>
+<text transform="translate(223,184)" font-size="5" style="fill:rgb(49, 104, 142)">포유</text>
+<text transform="translate(239,89)" font-size="5" style="fill:rgb(42, 120, 142)">드림</text>
+<text transform="translate(233,49)" font-size="5" style="fill:rgb(246, 230, 32)">육성</text>
+<text transform="translate(362,137)" font-size="5" style="fill:rgb(32, 164, 134)">협업</text>
+<text transform="translate(361,107)" font-size="5" style="fill:rgb(31, 153, 138)">공유</text>
+<text transform="translate(240,159)" font-size="5" style="fill:rgb(33, 143, 141)">누구</text>
+<text transform="translate(152,176)" font-size="5" style="fill:rgb(37, 131, 142)">정보</text>
+<text transform="translate(303,94)" font-size="5" style="fill:rgb(132, 212, 75)">특강</text>
+<text transform="translate(238,133)" font-size="5" style="fill:rgb(70, 192, 111)">지급</text>
+<text transform="translate(66,69)" font-size="5" style="fill:rgb(229, 228, 25)">지난해</text>
+<text transform="translate(251,41)" font-size="5" style="fill:rgb(57, 86, 140)">무엇</text>
+<text transform="translate(75,93)" font-size="5" style="fill:rgb(34, 139, 141)">필요</text>
+<text transform="translate(8,31) rotate(-90)" font-size="5" style="fill:rgb(160, 218, 57)">방식</text>
+<text transform="translate(80,103)" font-size="5" style="fill:rgb(72, 38, 119)">체험</text>
+<text transform="translate(322,33)" font-size="5" style="fill:rgb(38, 173, 129)">엔트리</text>
+<text transform="translate(388,132)" font-size="5" style="fill:rgb(68, 58, 131)">모든</text>
+<text transform="translate(363,115)" font-size="5" style="fill:rgb(231, 228, 25)">올해</text>
+<text transform="translate(170,16)" font-size="5" style="fill:rgb(112, 207, 87)">명의</text>
+<text transform="translate(217,6)" font-size="5" style="fill:rgb(72, 38, 119)">자기</text>
+<text transform="translate(245,174) rotate(-90)" font-size="5" style="fill:rgb(63, 188, 115)">경영</text>
+<text transform="translate(330,172) rotate(-90)" font-size="5" style="fill:rgb(56, 89, 140)">플랫폼</text>
+<text transform="translate(220,197)" font-size="5" style="fill:rgb(71, 16, 99)">장학</text>
+<text transform="translate(33,185)" font-size="5" style="fill:rgb(110, 206, 88)">지식</text>
+<text transform="translate(129,149)" font-size="5" style="fill:rgb(47, 180, 124)">시간</text>
+<text transform="translate(282,119)" font-size="5" style="fill:rgb(31, 159, 136)">서울</text>
+<text transform="translate(293,195)" font-size="5" style="fill:rgb(181, 222, 43)">미래</text>
+</svg>
